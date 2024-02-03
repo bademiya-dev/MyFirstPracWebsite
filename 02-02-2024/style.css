@@ -1,0 +1,56 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:tahoma;
+    background-color:#0e212c;
+}
+.container{
+    width:1200px;
+    height:auto;
+    
+    margin:auto;
+    background-color:#fff;
+    box-shadow: 1px 2px 5px #cecece;
+}
+.header{
+    border:0px solid #f00;
+    height:150px;
+    padding-top:50px;
+}
+.logo{
+    border:0px solid #f00;
+    width:200px;
+    float:left;
+}
+.socialmediaIcons{
+    width: 724px;
+    height: 84px;
+    border:0px solid #f00;
+    float:right;
+    padding-top:10px;
+}
+.search{
+    width:40%;
+    height:80px;
+    border:0px solid #f00;
+    float:left;
+    
+}
+.input{
+    
+    border:none !important;
+    
+}
+.srch{
+    width:80px;
+    background-color:#0b6596;
+    color:#fff;
+    font-size:14px;
+}
+.icons{
+    width:40%;
+    height:80px;
+    border:0px solid #f00;
+    float:right;
+    
+}
